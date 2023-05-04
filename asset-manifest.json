@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/https://github.com/mantr88/goit-react-hw-04-feedback.git/static/css/main.0d5b2924.css",
+    "main.js": "/https://github.com/mantr88/goit-react-hw-04-feedback.git/static/js/main.76718e19.js",
+    "index.html": "/https://github.com/mantr88/goit-react-hw-04-feedback.git/index.html",
+    "main.0d5b2924.css.map": "/https://github.com/mantr88/goit-react-hw-04-feedback.git/static/css/main.0d5b2924.css.map",
+    "main.76718e19.js.map": "/https://github.com/mantr88/goit-react-hw-04-feedback.git/static/js/main.76718e19.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0d5b2924.css",
+    "static/js/main.76718e19.js"
+  ]
+}
